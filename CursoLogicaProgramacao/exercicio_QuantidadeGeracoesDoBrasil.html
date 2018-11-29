@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<script>
+	function pulaLinha(){
+		document.write("<br>");
+	}
+
+	function imprimir(mensagem){
+		document.write(mensagem);
+		pulaLinha();
+	}
+
+	function QtdeGeracoesDoPais(anoDescobrimento, mediaIdadePai, anoAtual){
+		var geracoes = (anoAtual - anoDescobrimento) / mediaIdadePai;
+		imprimir("O Brasil está na " + Math.round(geracoes)+"º geração.");
+	}
+	imprimir("<h2>Calcular quantidade de gerações do Brasil: </h2>");
+	QtdeGeracoesDoPais(1500,20,2018);
+
+</script>

@@ -4,12 +4,56 @@
 		"selected_items":
 		[
 			[
-				"cami",
-				"caminhoComAlcool"
+				"ger",
+				"gerações"
+			],
+			[
+				"b",
+				"Brasil"
+			],
+			[
+				"ge",
+				"geracoes"
+			],
+			[
+				"ano",
+				"anoDescobrimento"
+			],
+			[
+				"a",
+				"anoDescobrimento"
 			],
 			[
 				"me",
-				"meta\tTag"
+				"mediaIdadePai"
+			],
+			[
+				"an",
+				"anoDescobrimento"
+			],
+			[
+				"ca",
+				"CalcularDiferenca"
+			],
+			[
+				"di",
+				"diferenca"
+			],
+			[
+				"diferen",
+				"diferença"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"funçao"
+			],
+			[
+				"cami",
+				"caminhoComAlcool"
 			],
 			[
 				"A",
@@ -27,6 +71,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "exercicio_QuantidadeGeracoesDoBrasil.html",
+			"settings":
+			{
+				"buffer_size": 681,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -61,11 +114,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/curso-git",
+		"/C/curso-git/CursoGIT",
+		"/C/curso-git/CursoLogicaProgramacao"
+	],
 	"file_history":
 	[
+		"/C/curso-git/CursoLogicaProgramacao/comando_function.html",
+		"/C/curso-git/CursoLogicaProgramacao/calculo_diferencaidadeirmao.html",
+		"/C/curso-git/CursoLogicaProgramacao/exercicio_QuantidadeGeracoesDoBrasil.html",
+		"/C/curso-git/CursoLogicaProgramacao/ProjetoSublime.sublime-project",
 		"/C/curso-git/CursoLogicaProgramacao/calcula_consumo.html",
 		"/C/curso-git/CursoLogicaProgramacao/principal.html",
-		"/C/curso-git/CursoLogicaProgramacao/comando_function.html",
 		"/C/curso-git/CursoLogicaProgramacao/comando_function",
 		"/C/curso-git/CursoLogicaProgramacao/CursoLogicaProgramacaoProjectSublime.sublime-project",
 		"/C/curso-git/estilo.css",
@@ -104,8 +166,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "exercicio_QuantidadeGeracoesDoBrasil.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -190,7 +282,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 247.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

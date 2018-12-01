@@ -1,0 +1,31 @@
+<meta charset="utf-8">
+<script>
+	
+	VerificarNumero(PegarNumero(), GerarNumero());
+
+	function mostrar(mensagem){
+	document.write(mensagem);
+	document.write("<br>");
+	}
+	
+	function GerarNumero(){
+		var numeroGerado = Math.round(Math.random() * 10);
+		return numeroGerado;
+	}
+
+	function PegarNumero(){
+		var numeroInserido = prompt("Insira um número de 0 a 10!");
+		return numeroInserido;
+	}
+
+	function VerificarNumero(numeroInserido, numeroGerado){
+		if (numeroGerado == numeroInserido ) {
+
+		mostrar("PARABÉNS!! Você acertou!!");
+
+	}else{
+		mostrar("PUTS!! Você errou, o número era " + numeroGerado + "!!");
+	}
+	}
+
+</script>

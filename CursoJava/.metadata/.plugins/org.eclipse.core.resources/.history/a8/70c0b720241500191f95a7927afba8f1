@@ -1,0 +1,19 @@
+package bytebank;
+
+public class TestaMetodo {
+public static void main(String[] args) {
+	Conta contaJhon = new Conta();
+	contaJhon.deposita(50);
+	System.out.println(contaJhon.saldo);
+	
+	contaJhon.saca(20);
+	System.out.println(contaJhon.saldo);
+	
+	Conta contaGi = new Conta();
+	contaGi.deposita(1000);
+	
+	contaGi.transfere(300, contaJhon);
+	
+	System.out.println(contaJhon.saldo);
+}
+}

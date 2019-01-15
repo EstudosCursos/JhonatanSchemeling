@@ -1,0 +1,7 @@
+package bytebank.herdado;
+
+public class TesteReferencias {
+Gerente g1 = new Gerente();
+
+	
+}

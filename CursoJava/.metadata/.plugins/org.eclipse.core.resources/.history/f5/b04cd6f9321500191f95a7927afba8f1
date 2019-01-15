@@ -1,0 +1,16 @@
+package bytebank;
+
+public class TesteReferencias {
+public static void main(String[] args) {
+	Conta primeiraConta = new Conta();
+	primeiraConta.saldo = 300;
+	System.out.println(primeiraConta.pegaSaldo());
+	
+	Conta segundaConta = primeiraConta;
+	primeiraConta.deposita() = 200;
+	System.out.println(primeiraConta.pegaSaldo());
+	segundaConta.saldo +=10;
+	System.out.println(primeiraConta.pegaSaldo());
+	System.out.println(segundaConta.pegaSaldo());
+}
+}

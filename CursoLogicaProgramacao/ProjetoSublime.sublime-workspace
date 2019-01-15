@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"PegarNumero"
+			],
+			[
+				"V",
+				"VerificarNumero"
+			],
+			[
+				"nu",
+				"numeroGerado"
+			],
+			[
+				"numero",
+				"numeroInserido"
+			],
+			[
+				"a",
+				"altura"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
 				"ger",
 				"gerações"
 			],
@@ -18,14 +50,6 @@
 			[
 				"ano",
 				"anoDescobrimento"
-			],
-			[
-				"a",
-				"anoDescobrimento"
-			],
-			[
-				"me",
-				"mediaIdadePai"
 			],
 			[
 				"an",
@@ -48,10 +72,6 @@
 				"function"
 			],
 			[
-				"fun",
-				"funçao"
-			],
-			[
 				"cami",
 				"caminhoComAlcool"
 			],
@@ -72,12 +92,13 @@
 	"buffers":
 	[
 		{
-			"file": "exercicio_QuantidadeGeracoesDoBrasil.html",
+			"file": "exercicio_CalcularIdadeDirigir.html",
 			"settings":
 			{
-				"buffer_size": 681,
+				"buffer_size": 554,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Windows",
+				"name": "<meta charset=\"UTF-8\">"
 			}
 		}
 	],
@@ -122,9 +143,11 @@
 	],
 	"file_history":
 	[
+		"/C/curso-git/CursoLogicaProgramacao/exercicio_JogoAdivinhe.html",
+		"/C/curso-git/CursoLogicaProgramacao/exercicio_CalculadorIMC.html",
+		"/C/curso-git/CursoLogicaProgramacao/exercicio_QuantidadeGeracoesDoBrasil.html",
 		"/C/curso-git/CursoLogicaProgramacao/comando_function.html",
 		"/C/curso-git/CursoLogicaProgramacao/calculo_diferencaidadeirmao.html",
-		"/C/curso-git/CursoLogicaProgramacao/exercicio_QuantidadeGeracoesDoBrasil.html",
 		"/C/curso-git/CursoLogicaProgramacao/ProjetoSublime.sublime-project",
 		"/C/curso-git/CursoLogicaProgramacao/calcula_consumo.html",
 		"/C/curso-git/CursoLogicaProgramacao/principal.html",
@@ -171,28 +194,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "exercicio_QuantidadeGeracoesDoBrasil.html",
+					"file": "exercicio_CalcularIdadeDirigir.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 681,
+						"buffer_size": 554,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								681,
-								681
+								539,
+								539
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"auto_name": "<meta charset=\"UTF-8\">",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 300.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
